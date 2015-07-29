@@ -1,0 +1,57 @@
+Enter a list of shapes - 'done' to end
+Enter the shape's color (or 'done')... red 
+Enter the shape type... circle
+Enter the radius... 3
+
+Enter a list of shapes - 'done' to end
+Enter the shape's color (or 'done')... blue
+Enter the shape type... square
+Enter the length of a side... 4
+
+
+Enter a list of shapes - 'done' to end
+Enter the shape's color (or 'done')...green 
+Enter the shape type... rectangle
+Enter the length and width... 3.0 2.0
+
+
+Enter a list of shapes - 'done' to end
+Enter the shape's color (or 'done')... blue
+Enter the shape type... circle
+Enter the radius... 2
+
+Enter a list of shapes - 'done' to end
+Enter the shape's color (or 'done')... red
+Enter the shape type... rectangle
+Enter the length and width... 8.0 2.0
+
+Enter a list of shapes - 'done' to end
+Enter the shape's color (or 'done')... green
+Enter the shape type... circle
+Enter the radius... 1
+
+Enter a list of shapes - 'done to end
+Enter the shape's color (or 'done')...red
+Enter the shape type... square
+Enter the length of a side... 2
+
+Enter a list of shapes - 'done' to end
+Enter the shape's color (or 'done')...done
+
+The list of shapes entered...
+red circle w/ radius of 3 and area: 18.84
+blue square w/ sides measuring 4 and area of 16
+green rectangle w/ length = 3 and width = 2 and area = 6
+blue circle w/ radius of 2 and area: 12.56
+red rectangle w/ length = 8 and width = 2 and area = 16
+green circle w/ radius of 1 and area: 6.28
+red square w/ sides measuring 2 and area of 4
+
+The sorted list of shapes...
+red square w/ sides measuring 2 and area of 4
+green rectangle w/ length = 3 and width = 2 and area = 6
+green circle w/ radius of 1 and area: 6.28
+blue circle w/ radius of 2 and area: 12.56
+blue square w/ sides measuring 4 and area of 16
+red rectangle w/ length = 8 and width = 2 and area = 16
+red circle w/ radius of 3 and area: 18.84
